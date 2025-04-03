@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitingaikwad37" target="blank"><img src="https://img.shields.io/twitter/follow/nitingaikwad37?logo=twitter&style=for-the-badge" alt="nitingaikwad37" /></a> </p>
 
-- 🌱 I’m currently learning **B.Tech in computer Science and Engineering ngineering**
+- 🌱 I’m currently learning **B.Tech in Computer Science and Engineering**
 
 - 📫 How to reach me **nitin.n.gaikwad37@gmail.com**
 
