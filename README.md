@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitin Gaikwad</h1>
+<h1 align="center">Hi👋,I'm Nitin Gaikwad</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/nitingaikwad37" target="blank"><img src="https://img.shields.io/twitter/follow/nitingaikwad37?logo=twitter&style=for-the-badge" alt="nitingaikwad37" /></a> </p>
 
-- 🌱 I’m currently learning **B.Tech in computer Science and engineering**
+- 🌱 I’m currently learning **B.Tech in computer Science and Engineering ngineering**
 
-- 📫 How to reach me **Sd22_gaikwad_nitin@mgmcen.ac.in**
+- 📫 How to reach me **nitin.n.gaikwad37@gmail.com**
 
 - ⚡ Fun fact **Curious developer exploring new ideas and building cool stuff**
 
