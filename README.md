@@ -1,3 +1,4 @@
+![logo](https://github.com/nitingaikwad7/nitingaikwad7/blob/main/github%20banneer.jpeg)
 <h1 align="center">Hi👋,I'm Nitin Gaikwad</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
